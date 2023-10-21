@@ -1,0 +1,12 @@
+C:\Users\213002\source\repos\Lab5Q1\bin\Debug\netcoreapp3.1\Lab5Q1.exe
+C:\Users\213002\source\repos\Lab5Q1\bin\Debug\netcoreapp3.1\Lab5Q1.deps.json
+C:\Users\213002\source\repos\Lab5Q1\bin\Debug\netcoreapp3.1\Lab5Q1.runtimeconfig.json
+C:\Users\213002\source\repos\Lab5Q1\bin\Debug\netcoreapp3.1\Lab5Q1.runtimeconfig.dev.json
+C:\Users\213002\source\repos\Lab5Q1\bin\Debug\netcoreapp3.1\Lab5Q1.dll
+C:\Users\213002\source\repos\Lab5Q1\bin\Debug\netcoreapp3.1\Lab5Q1.pdb
+C:\Users\213002\source\repos\Lab5Q1\obj\Debug\netcoreapp3.1\Lab5Q1.AssemblyInfoInputs.cache
+C:\Users\213002\source\repos\Lab5Q1\obj\Debug\netcoreapp3.1\Lab5Q1.AssemblyInfo.cs
+C:\Users\213002\source\repos\Lab5Q1\obj\Debug\netcoreapp3.1\Lab5Q1.csproj.CoreCompileInputs.cache
+C:\Users\213002\source\repos\Lab5Q1\obj\Debug\netcoreapp3.1\Lab5Q1.dll
+C:\Users\213002\source\repos\Lab5Q1\obj\Debug\netcoreapp3.1\Lab5Q1.pdb
+C:\Users\213002\source\repos\Lab5Q1\obj\Debug\netcoreapp3.1\Lab5Q1.genruntimeconfig.cache

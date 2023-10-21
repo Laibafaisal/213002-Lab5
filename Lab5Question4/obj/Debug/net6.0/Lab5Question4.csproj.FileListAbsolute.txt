@@ -1,0 +1,14 @@
+C:\Users\KH Faisal\source\repos\Lab5Question4\bin\Debug\net6.0\Lab5Question4.exe
+C:\Users\KH Faisal\source\repos\Lab5Question4\bin\Debug\net6.0\Lab5Question4.deps.json
+C:\Users\KH Faisal\source\repos\Lab5Question4\bin\Debug\net6.0\Lab5Question4.runtimeconfig.json
+C:\Users\KH Faisal\source\repos\Lab5Question4\bin\Debug\net6.0\Lab5Question4.dll
+C:\Users\KH Faisal\source\repos\Lab5Question4\bin\Debug\net6.0\Lab5Question4.pdb
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\Lab5Question4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\Lab5Question4.AssemblyInfoInputs.cache
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\Lab5Question4.AssemblyInfo.cs
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\Lab5Question4.csproj.CoreCompileInputs.cache
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\Lab5Question4.dll
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\refint\Lab5Question4.dll
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\Lab5Question4.pdb
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\Lab5Question4.genruntimeconfig.cache
+C:\Users\KH Faisal\source\repos\Lab5Question4\obj\Debug\net6.0\ref\Lab5Question4.dll
